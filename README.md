@@ -1,7 +1,8 @@
 # АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
 Отчет по лабораторной работе #1 выполнил(а):
-- Иванова Ивана Варкравтовна
-- РИ000024
+- Ежов Никита Олегович
+- РИ220950
+  
 Отметка о выполнении заданий (заполняется студентом):
 
 | Задание | Выполнение | Баллы |
@@ -50,7 +51,7 @@ https://docs.google.com/spreadsheets/d/12N3PWh4UsCJeFtKOGyyyZI0tGxUBK6B5yUp7P_Ko
 ## Задание 2
 ### Создайте 10 сцен на Unity с изменяющимся уровнем сложности.
 Я создал все 10 сцен, найти их можно здесь
-https://github.com/TheScore1/DA-in-GameDev-lab3/edit/main/sceneunity.unitypackage
+https://github.com/TheScore1/DA-in-GameDev-lab3/blob/main/scenesunity.unitypackage
 ## Задание 3
 ### Решение в 80+ баллов должно заполнять google-таблицу данными из Python. В Python данные также должны быть визуализированы.
 
